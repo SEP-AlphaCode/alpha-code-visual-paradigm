@@ -30,3 +30,4 @@ replay_pid*
 *.jpeg
 *.lod
 *.lock
+projects/*/.vpprefdata/*
