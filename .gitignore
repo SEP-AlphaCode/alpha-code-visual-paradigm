@@ -31,3 +31,4 @@ replay_pid*
 *.lod
 *.lock
 projects/*/.vpprefdata/*
+projects/*/tmp/*
