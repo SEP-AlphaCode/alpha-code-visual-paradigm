@@ -27,3 +27,6 @@ replay_pid*
 *.png
 *.jpg
 *.pdf
+*.jpeg
+*.lod
+*.lock
